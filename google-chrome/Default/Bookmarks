@@ -1,0 +1,75 @@
+{
+   "checksum": "62c1674d753440b4c67e20852b156fd4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13301835637071115",
+            "guid": "20e770c3-c51d-4926-aa6d-42e5d421fb5c",
+            "id": "5",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13301835799991299",
+            "guid": "af9310d1-726c-4fac-a85b-a9a1f8414ba0",
+            "id": "6",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13301927303691670",
+            "guid": "c7d36fcf-caf7-4e97-9762-385b5b5b334d",
+            "id": "8",
+            "name": "Taptop Test",
+            "type": "url",
+            "url": "https://www.onlinemictest.com/zh/"
+         }, {
+            "date_added": "13302002932039265",
+            "guid": "4acb4770-148f-4449-bea8-07388ac8727d",
+            "id": "10",
+            "name": "bilibili",
+            "type": "url",
+            "url": "https://www.bilibili.com/"
+         }, {
+            "date_added": "13302877154775294",
+            "guid": "8a391887-9400-4d28-a427-92e4990ef38b",
+            "id": "13",
+            "name": "SFU Mail",
+            "type": "url",
+            "url": "https://www.sfu.ca/sfumail.html"
+         }, {
+            "date_added": "13302969740150436",
+            "guid": "6093baf9-00f0-48ab-a3f4-3fbf89423e80",
+            "id": "15",
+            "name": "goSFU",
+            "type": "url",
+            "url": "https://sims.erp.sfu.ca/psc/csprd/EMPLOYEE/SA/s/WEBLIB_SFU.ISCRIPT1.FieldFormula.IScript_CASSignin"
+         } ],
+         "date_added": "13301835588047776",
+         "date_modified": "13302969740150436",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13301835588047776",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13301835588047777",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

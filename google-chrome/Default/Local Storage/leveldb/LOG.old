@@ -1,0 +1,14 @@
+2022/07/25-05:15:24.241 3 Reusing MANIFEST /home/dousbao/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/07/25-05:15:24.242 3 Recovering log #403
+2022/07/25-05:15:24.244 3 Level-0 table #406: started
+2022/07/25-05:15:24.246 3 Level-0 table #406: 120291 bytes OK
+2022/07/25-05:15:24.248 3 Delete type=0 #403
+2022/07/25-05:15:24.248 3 Compacting 4@0 + 1@1 files
+2022/07/25-05:15:24.273 3 Generated table #408@0: 1444 keys, 1762217 bytes
+2022/07/25-05:15:24.273 3 Compacted 4@0 + 1@1 files => 1762217 bytes
+2022/07/25-05:15:24.275 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/25-05:15:24.276 3 Delete type=2 #406
+2022/07/25-05:15:24.276 3 Delete type=2 #397
+2022/07/25-05:15:24.276 3 Delete type=2 #402
+2022/07/25-05:15:24.276 3 Delete type=2 #404
+2022/07/25-05:15:24.276 3 Delete type=2 #400

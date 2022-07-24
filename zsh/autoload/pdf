@@ -1,0 +1,9 @@
+# This is alias for evince
+
+if [ $# -ne 1 ] || [ -d $1 ] || [ ! -r $1 ] || [ ! $(echo $1 | tail -c 5) = ".pdf" ]; then
+	echo "usage: pdf <pdf format file>"
+	return -1
+fi
+
+evince $1 >> /dev/null 2>&1 &
+

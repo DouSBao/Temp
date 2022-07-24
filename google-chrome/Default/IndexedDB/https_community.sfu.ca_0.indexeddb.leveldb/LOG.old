@@ -1,0 +1,5 @@
+2022/07/23-22:12:24.107 5f5 Creating DB /home/dousbao/.config/google-chrome/Default/IndexedDB/https_community.sfu.ca_0.indexeddb.leveldb since it was missing.
+2022/07/23-22:12:24.109 5f5 Reusing MANIFEST /home/dousbao/.config/google-chrome/Default/IndexedDB/https_community.sfu.ca_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/23-22:25:32.184 894 Level-0 table #5: started
+2022/07/23-22:25:32.199 894 Level-0 table #5: 2672233 bytes OK
+2022/07/23-22:25:32.201 894 Delete type=0 #3

@@ -1,0 +1,6 @@
+2022/07/18-21:57:28.708 9ed Creating DB /home/dousbao/.config/google-chrome/Default/IndexedDB/https_writing.citationmachine.net_0.indexeddb.leveldb since it was missing.
+2022/07/18-21:57:28.710 9ed Reusing MANIFEST /home/dousbao/.config/google-chrome/Default/IndexedDB/https_writing.citationmachine.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-21:57:38.050 b09 Level-0 table #5: started
+2022/07/18-21:57:38.053 b09 Level-0 table #5: 568 bytes OK
+2022/07/18-21:57:38.054 b09 Delete type=0 #3
+2022/07/18-21:57:38.054 b09 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

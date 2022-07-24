@@ -1,0 +1,6 @@
+2022/07/16-18:57:03.469 76d6 Creating DB /home/dousbao/.config/google-chrome/Default/IndexedDB/https_www.hetushu.com_0.indexeddb.leveldb since it was missing.
+2022/07/16-18:57:03.471 76d6 Reusing MANIFEST /home/dousbao/.config/google-chrome/Default/IndexedDB/https_www.hetushu.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/16-19:43:48.032 7c17 Level-0 table #5: started
+2022/07/16-19:43:48.033 7c17 Level-0 table #5: 1070 bytes OK
+2022/07/16-19:43:48.034 7c17 Delete type=0 #3
+2022/07/16-19:43:48.035 7c17 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

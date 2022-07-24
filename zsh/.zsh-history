@@ -1,0 +1,67 @@
+echo $HISTFILE
+which $PS1
+ls
+cat $HISTFILE
+clear
+startx
+whence
+cd ~
+nvim
+mkdir autoload
+nvim ~/.config/zsh/.zshrc
+echo $FPATH
+ls -al
+pwd
+cd ,,
+cd ..
+mv autoload ~/.config/zsh
+cd ~/.config/zsh/
+ll
+nvim ~/.conf
+history
+cd autoload
+nvim pdf
+source ~/.zprofile
+which pdf
+pdf
+nvim ~/.config/zsh
+pdf
+which pdf
+pdf
+cd ~/.config/zsh/
+cd autoload
+nvim pdf
+pdf
+which pdf
+pdf .
+pdf ..
+pdf ~/asd
+cd ~/.config/zsh/
+ls -al
+ll
+nvim .zshrc
+source ~/.zprofile
+history
+temp
+history
+cat
+cat a
+history
+cat $HISTFILE
+clear
+nvim
+mkdir study
+mv ~/Downloads/Programming.in.Lua.4th.Edition.2016.8.pdf ~/study
+cd study
+mv Programming.in.Lua.4th.Edition.2016.8.pdf lua.pdf
+mkdir lua
+ll
+mv lua.pdf lua
+cd lua
+pdf lua.pdf
+nvim ~/.config/polybar/config.ini
+nvim ~/.config/i3/config
+xprop
+cd ~/study/lua
+pdf lua.pdf
+sudo reboot

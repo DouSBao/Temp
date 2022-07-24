@@ -1,0 +1,6 @@
+2022/07/22-23:27:55.194 4f77 Creating DB /home/dousbao/.config/google-chrome/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb since it was missing.
+2022/07/22-23:27:55.197 4f77 Reusing MANIFEST /home/dousbao/.config/google-chrome/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/22-23:36:15.574 5343 Level-0 table #5: started
+2022/07/22-23:36:15.576 5343 Level-0 table #5: 1292 bytes OK
+2022/07/22-23:36:15.577 5343 Delete type=0 #3
+2022/07/22-23:36:15.577 5343 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

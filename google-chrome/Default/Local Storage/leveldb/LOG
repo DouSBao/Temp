@@ -1,0 +1,9 @@
+2022/07/25-05:16:14.406 3 Reusing MANIFEST /home/dousbao/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/07/25-05:16:14.406 3 Recovering log #407
+2022/07/25-05:16:14.406 3 Reusing old log /home/dousbao/.config/google-chrome/Default/Local Storage/leveldb/000407.log 
+2022/07/25-05:17:33.795 3 Level-0 table #411: started
+2022/07/25-05:17:33.808 3 Level-0 table #411: 119083 bytes OK
+2022/07/25-05:17:33.814 3 Delete type=0 #407
+2022/07/25-05:19:44.824 4 Level-0 table #413: started
+2022/07/25-05:19:44.828 4 Level-0 table #413: 119369 bytes OK
+2022/07/25-05:19:44.830 4 Delete type=0 #410

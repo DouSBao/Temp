@@ -1,0 +1,18 @@
+2022/07/17-19:18:12.129 2460 Reusing MANIFEST /home/dousbao/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/17-19:18:12.129 2460 Recovering log #3
+2022/07/17-19:18:12.136 2460 Reusing old log /home/dousbao/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/07/17-19:19:39.251 22d4 Level-0 table #5: started
+2022/07/17-19:19:39.270 22d4 Level-0 table #5: 1746061 bytes OK
+2022/07/17-19:19:39.272 22d4 Delete type=0 #3
+2022/07/17-20:43:50.858 270b Level-0 table #7: started
+2022/07/17-20:43:50.865 270b Level-0 table #7: 696196 bytes OK
+2022/07/17-20:43:50.867 270b Delete type=0 #4
+2022/07/17-20:43:50.867 270b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/17-20:43:50.867 270b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x12\x00\x00\x05' @ 3984 : 1
+2022/07/17-20:43:50.867 270b Compacting 1@1 + 1@2 files
+2022/07/17-20:43:50.875 270b Generated table #8@1: 96 keys, 51203 bytes
+2022/07/17-20:43:50.875 270b Compacted 1@1 + 1@2 files => 51203 bytes
+2022/07/17-20:43:50.876 270b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/17-20:43:50.876 270b Delete type=2 #7
+2022/07/17-20:43:50.876 270b Delete type=2 #5
+2022/07/17-20:43:50.877 270b Manual compaction at level-1 from '\x00\x12\x00\x00\x05' @ 3984 : 1 .. (end); will stop at (end)
